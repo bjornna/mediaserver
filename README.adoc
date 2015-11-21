@@ -1,0 +1,4 @@
+= Mediaserver
+
+== What? 
+To list images and videos from family happenings. 
